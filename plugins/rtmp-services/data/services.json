@@ -2467,10 +2467,6 @@
                     "url": "rtmp://uk-central-ldn.livepush.io/live"
                 },
                 {
-                    "name": "Milan, Italy",
-                    "url": "rtmp://it-north-mln.livepush.io/live"
-                },
-                {
                     "name": "Paris, FR",
                     "url": "rtmp://fr-central-par.livepush.io/live"
                 },
